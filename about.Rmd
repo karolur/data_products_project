@@ -1,0 +1,8 @@
+---
+title: "About 'Titanic Data -  Regression'"
+output: html_document
+---
+
+This Shiny App is for visualizing the density distributions of the survivors and non survivors of Titanic using the classic dataset found here <https://www.kaggle.com/c/titanic>.
+
+A logistic regression model was build and tested, the ROC curve and the density graphs help visualize the effect of the different thresholds for labeling a survivor in increasing or decreasing the false positives.
